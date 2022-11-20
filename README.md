@@ -19,9 +19,9 @@
 
 <div align="center" style="text-align:center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/worldii/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/yureutaejin/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html, jupyter notebooks)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html)](https://github.com/yureutaejin/github-readme-stats)
   <br>
 
 </div>

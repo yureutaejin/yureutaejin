@@ -6,7 +6,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)"/></a>&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/></a>&nbsp
+  <img src="https://a11ybadges.com/badge?logo=apachespark"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
+  
 </p>
 <hr>
 

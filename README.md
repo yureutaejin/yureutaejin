@@ -21,7 +21,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/worldii/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html, jupyter notebooks)](https://github.com/anuraghazra/github-readme-stats)
   <br>
 
 </div>

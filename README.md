@@ -21,9 +21,8 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/worldii/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&layout=compact)](https://github.com/yureutaejin/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yureutaejin">
 
 </div>
 

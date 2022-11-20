@@ -36,7 +36,7 @@
 <h3 align="center"> 📞 For Contact <h3>
 <div align="center" style="text-align:center">
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jongha2788@u.sogang.ac.kr)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jyjin3@me.com)
   [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@worldicate/)
 </div>
 

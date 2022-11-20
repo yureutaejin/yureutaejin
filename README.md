@@ -19,7 +19,9 @@
 
 <h3 align="center"> 🎀 Now I'm intereseted in.. </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Springs-A8B9CC?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<img src="https://a11ybadges.com/badge?logo=apachespark"/></a>&nbsp
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/></a>&nbsp
+
 </p>
 <hr>
 

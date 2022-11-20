@@ -24,7 +24,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldii)](https://github.com/worldii/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/worldii/github-readme-stats)
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&layout=compact)](https://github.com/yureutaejin/github-readme-stats)
   <br>

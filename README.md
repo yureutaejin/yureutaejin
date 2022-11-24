@@ -44,9 +44,3 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuntae-jin-4bab97201/)](https://www.linkedin.com/in/yuntae-jin-4bab97201/)
   
 </div>
-  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<br>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="junho-yoon-37168b1ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/junho-yoon-37168b1ba?trk=profile-badge"></a></div>

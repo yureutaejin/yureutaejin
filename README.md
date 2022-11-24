@@ -43,6 +43,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jyjin3@me.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuntae-jin-4bab97201/)](https://www.linkedin.com/in/yuntae-jin-4bab97201/)
   
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yuntae-jin-4bab97201" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/yuntae-jin-4bab97201?trk=profile-badge">Yuntae Jin</a>
   </div>

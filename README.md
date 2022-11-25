@@ -31,7 +31,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/yureutaejin/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=[html, css])](https://github.com/yureutaejin/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&hide=html,css)](https://github.com/yureutaejin/github-readme-stats)
   <br>
 
 </div>

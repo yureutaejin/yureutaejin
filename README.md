@@ -29,7 +29,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/yureutaejin/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin&show_icons=true&theme=radical)
   <br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&layout=compact&theme=radical&hide=html,css,jupyter%20notebook'/>
   <br>

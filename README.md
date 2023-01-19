@@ -31,7 +31,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin)](https://github.com/yureutaejin/github-readme-stats)
   <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&layout=compact&theme=radical&hide=html,css'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yureutaejin&layout=compact&theme=radical&hide=html,css,jupyter%20notebook'/>
   <br>
 
 </div>

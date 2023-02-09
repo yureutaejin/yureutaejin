@@ -1,5 +1,6 @@
-<h2 align="center"> 🎈 Jin Yun Tae </h2>
-
+<h2 align="center"> 🎈 Jin Yun Tae </h2> 
+  
+  
 <h3 align="center"> 👨‍💻 Language Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp

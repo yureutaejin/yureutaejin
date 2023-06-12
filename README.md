@@ -15,16 +15,12 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/></a>&nbsp
-  <img src="https://a11ybadges.com/badge?logo=apachespark"/></a>&nbsp
 </p>
 <hr>
 
 <h3 align="center"> 🎀 Now I'm intereseted in.. </h3>
 <p align="center">
-<img src="https://a11ybadges.com/badge?logo=apachespark"/></a>&nbsp
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/></a>&nbsp
 
 </p>
 <hr>

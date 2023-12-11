@@ -9,6 +9,12 @@ I'm Studying about DevOps, Cloud Architecture, Data Engineering, etc.. Now.
 - Member, Cloud Club [ 2023.08 - Present ]
 - Lead, PassionPay, iise Seoultech [ 2023.01 - Present ]
 
+---
+## Projects
+- Writing Procedding...
+
+
+---
 ## 👨‍💻 Stacks 
 ### Language
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>

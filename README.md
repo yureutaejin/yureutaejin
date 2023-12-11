@@ -16,6 +16,11 @@ I'm Studying about DevOps, Cloud Architecture, Data Engineering, etc.. Now.
 
 ---
 ## 👨‍💻 Stacks 
+***Check My Stacks with clicking toggle Button!!!!***
+<details>
+<summary>Detail Stacks</summary>
+<div markdown="1">
+
 ### Language
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -51,6 +56,9 @@ I'm Studying about DevOps, Cloud Architecture, Data Engineering, etc.. Now.
 ---
 ### ML/DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+</div>
+</details>
+
 
 ---
 ## 🎀 Now I'm intereseted in..

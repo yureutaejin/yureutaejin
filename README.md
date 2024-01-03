@@ -1,6 +1,8 @@
 ## 🎈 Yureutae (Yun-Tae Jin)
 I'm Studying about DevOps, Cloud Architecture, Data Engineering, etc.. Now.
 
+Please Follow for Follow with Me! I want to make My own Networking in Git
+
 ---
 ## Education and Activities
 - B.S. IISE, Seoul National University of Science and Technology [ 2019.02 - 2024.02 ]

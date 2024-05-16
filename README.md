@@ -71,8 +71,7 @@ Please Follow for Follow with Me! I want to make My own Networking in Git
 
 ---
 ## 🔧 Commit History
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yureutaejin&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats-six-wine-31.vercel.app/api?username=yureutaejin&show_icons=true&theme=radical&count_private=true)
 ## 📞 For Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jyjin3@me.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuntae-jin-4bab97201/)](https://www.linkedin.com/in/yuntae-jin-4bab97201/)
